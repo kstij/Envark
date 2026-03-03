@@ -68,7 +68,7 @@ Type `/` to open the command dropdown with all available commands:
 
 Run `/scan` to analyze your project's environment variables:
 
-![Scan Results](assets/scan.png)(https://raw.githubusercontent.com/kstij/Envark/main/assets/scan.png)
+![Scan Results](https://raw.githubusercontent.com/kstij/Envark/main/assets/scan.png)
 
 ### Available Commands
 
