@@ -372,6 +372,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 **Built with ❤️ for developers who are tired of production env var bugs.**
 
-[Report Bug](https://github.com/yourusername/envark/issues) • [Request Feature](https://github.com/yourusername/envark/issues)
+[Report Bug](https://github.com/kstij/envark/issues) • [Request Feature](https://github.com/kstij/envark/issues)
 
 </div>
