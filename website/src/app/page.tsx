@@ -145,6 +145,7 @@ export default function Home() {
               <button className="bg-[#7fffb6] text-black px-5 sm:px-8 py-2.5 sm:py-3.5 rounded-full text-xs sm:text-sm font-bold tracking-wide uppercase hover:bg-[#6be0a0] transition-colors flex items-center gap-2 cursor-pointer">
                 INSTALL NOW <ArrowRight className="w-4 h-4" />
               </button>
+            </a>  
               <a href="https://kstij-envark.mintlify.app/quickstart" target="_blank" rel="noopener noreferrer">
                 <button className="border border-zinc-700 text-white px-5 sm:px-8 py-2.5 sm:py-3.5 rounded-full text-xs sm:text-sm font-bold tracking-wide uppercase hover:bg-zinc-800 transition-colors flex items-center gap-2 cursor-pointer bg-black/20 backdrop-blur-sm">
                   DOCS
